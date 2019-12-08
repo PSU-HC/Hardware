@@ -1,7 +1,10 @@
 
 ***space-specific hardware***
-
-*F360 Links - better sharing solution TBD*    
+_ _ _
+***README yet to be updated with Makerspace-specific formatting*** 
+_ _ _
+     
+*F360 Links - better web / collaboration solution TBD*    
   
 - Redesign of the FUNMAT-HT extruder tensioner:   
 **https://a360.co/2PpPFNB**
